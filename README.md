@@ -10,10 +10,7 @@ This is a To-Do-List App. You can add Items to the list and also remove or move 
 - HTML
 - CSS
 - JavaScript
-- Bootstrap
-- Fetch polyfill
-- Promise polyfill
 
 ## Demo
-[Pokemon App](https://orlandoadriancalciu.github.io/simple-app-js/)
+[To-Do-List App](https://orlandoadriancalciu.github.io/to-do-list-app/)
 
